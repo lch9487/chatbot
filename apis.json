@@ -1,0 +1,4 @@
+{
+  "管理者": ["/admins/getUserName", "/admins/getUserPhoto"],
+  "會員": ["/members/getUserName", "/members/getUserPhoto"]
+}
